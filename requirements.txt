@@ -1,1 +1,4 @@
-pandas
+ipywidgets
+notebook
+ensure
+-e . #try to install local packages
